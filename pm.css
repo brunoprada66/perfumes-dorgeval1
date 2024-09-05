@@ -1,0 +1,393 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@100..800&family=Bungee+Tint&family=Matemasie&family=New+Amsterdam&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@1,200&family=Sankofa+Display&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:  "New Amsterdam", sans-serif;
+    
+}
+
+header{
+    background: linear-gradient(270deg, #FFFFFF, #4D4D4D);
+    height: 150px;
+    margin: auto;
+
+}
+
+#barra-navegacion-logo{
+    
+    width: 1100px;
+    height: 150px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 16px;
+
+    
+}
+
+header section nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 8px;
+    font-size: 22px;
+    font-weight: lighter;
+
+}
+
+#perfumes{
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+    flex-direction: column;
+    background: linear-gradient(270deg, #FFFFFF, #4D4D4D);
+}
+
+#titulo{
+    width: 450px;
+    font-size: 40px;
+    margin: auto;
+    padding: 50px;
+    
+}
+
+#bloques-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+
+}
+
+#bloques-1 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-1 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#optimus{
+    height: 350px;
+    padding: 25px 10px;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#optimus:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+
+
+#good-boy{
+    height: 350px;
+    padding: 25px 10px;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#good-boy:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#millionaire-lucky{
+    height: 350px;
+    padding: 25px 10px;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#millionaire-lucky:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#bloques-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-2 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-2 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#neroli-portobello{
+    height: 350px;
+    padding: 25px 10px ;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#neroli-portobello:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#optimus-legion{
+    height: 350px;
+    padding: 25px 10px ;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#optimus-legion:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#grand-victorious{
+    height: 350px;
+    padding: 25px 10px ;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#grand-victorious:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#bloques-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-3 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-3 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#yd-one{
+    height: 350px;
+    padding: 25px 10px ;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#yd-one:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#wildest-elixir{
+    height: 350px;
+    padding: 25px 10px ;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#wildest-elixir:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#victorious-intense{
+    height: 350px;
+    padding: 25px 10px ;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#victorious-intense:hover{
+    background-color: #ffffff81;
+    transform: scale(1.1);
+}
+
+#bloques-4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-4 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-4 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#skate-men{
+
+}
+
+#skate-men:hover{
+
+}
+
+#victorious-acqua{
+
+}
+
+#victorious-acqua:hover{
+    
+}
+
+#bloques-5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-5 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-5 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#bloques-6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-6 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-6 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#bloques-7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-7 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-7 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#bloques-8{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-8 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-8 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#bloques-9{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-9 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-9 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#bloques-10{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 10px 184px;
+    text-align: center;
+}
+
+#bloques-10 h2{
+    font-weight: lighter;
+    font-size: 30px;
+    
+}
+
+#bloques-10 h3{
+    font-size: 20px;
+    font-weight: bold;
+}
